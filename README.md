@@ -4,10 +4,10 @@
 ## Stats
 
 <a href="https://github.com/codingforhelp/CODER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimethan&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingforhelp&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
 </a>
-<a href="https://coderstats.net/github/#srimethan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimsilu&hide=ruby&theme=algolia" />
+<a href="https://coderstats.net/github/#codingforhelp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingforhelp&hide=ruby&theme=algolia" />
 </a>
 
 ## Technologies
