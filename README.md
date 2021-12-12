@@ -18,7 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 
 ![VS Code](https://img.shields.io/badge/VSCode-%23107ACC?logo=Visual-studio-code)
-![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
+![Pycharm](https://img.shields.io/badge/PyCharm-yellow?logo=PyCharm)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
+![C](https://img.shields.io/badge/-C-%23F05032?logo=C&logoColor=%23FFE633)
 
