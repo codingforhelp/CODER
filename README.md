@@ -17,11 +17,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
+![VS Code](https://img.shields.io/badge/VSCode-%23107ACC?logo=Visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim)
-![NeoVim](https://img.shields.io/badge/NeoVim-019733?logo=neovim)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=ffffff)
+
